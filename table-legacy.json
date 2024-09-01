@@ -1,0 +1,7 @@
+{
+  "data": [
+    {"id": 1, "descricao": "shampoo", "valor": 20.5, "ativo": 1},
+    {"id": 2, "descricao": "café", "valor": 10, "ativo": 1},
+    {"id": 3, "descricao": "chocolate", "valor": 2, "ativo": 0}
+  ]
+}
